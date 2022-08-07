@@ -599,7 +599,7 @@ progress {
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 700px;
   height: auto;
 }
 
@@ -5627,7 +5627,7 @@ textarea.form-control-lg {
 }
 .modal-fullscreen {
   width: 100vw;
-  max-width: none;
+  max-width: 600px;
   height: 100%;
   margin: 0;
 }
@@ -5649,7 +5649,7 @@ textarea.form-control-lg {
 @media (max-width: 575.98px) {
   .modal-fullscreen-sm-down {
     width: 100vw;
-    max-width: none;
+    max-width: 600px;
     height: 100%;
     margin: 0;
   }
@@ -5671,7 +5671,7 @@ textarea.form-control-lg {
 @media (max-width: 767.98px) {
   .modal-fullscreen-md-down {
     width: 100vw;
-    max-width: none;
+    max-width: 600px;
     height: 100%;
     margin: 0;
   }
